@@ -1,0 +1,9 @@
+import pickle
+
+pkl = "../../output/ml_results/saved_ml_models/LGBM_ALL_all_20260116_213149.pkl"
+model = pickle.load(open(pkl, "rb"))
+
+# sklearn wrapper:
+if hasattr(model, "feature_name_"):
+    print("n_features:", len(model.feature_name_))
+    print([f for f in model.feature_name_ ])
