@@ -1,6 +1,6 @@
  # Driver Stop Purpose Classification
 
-This repository contains dataset creation, classification, feature-engineering and performance analysis code for driver stop purpose classification. It was developed as part of Yuezhang Zhu's Master's thesis at the University of Canterbury. We publicly release it support future resarch in transportation engineering and mobility analysis.
+This repository contains dataset creation, classification, feature-engineering and performance analysis code for driver stop purpose classification. It was developed as part of Yuezhang Zhu's Master's thesis at the University of Canterbury. We publicly release it to support future resarch in transportation engineering and mobility analysis.
 
 The code creates and uses the publicly released dataset Driver Stop Purpose Classification, and conducts various experiments to improve the performance of the binary classification task - whether a driver stop is work or non-work related.
 
