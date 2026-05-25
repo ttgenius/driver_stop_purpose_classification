@@ -4,6 +4,8 @@ This repository contains dataset creation, classification, feature-engineering a
 
 The code creates and uses the publicly released dataset Driver Stop Purpose Classification, and conducts various experiments to improve the performance of the binary classification task - whether a driver stop is work or non-work related.
 
+The figure below illustrates examples of driver stops within a commercial environment. Several driver stops (blue) are observed near the designated work stop (red), while other stops occur near points of interest such as restaurants and petrol stations. This example highlights the complexity of inferring stop purpose, where both work and non-work related activities may occur within close spatial proximity. The proposed machine learning pipeline developed in this research aim to improve the classification performance by helping the model to better understand the contextual environment associated with the stop.![driver_stops](driver_stops.png)
+
 ## Acknowledgements
 
 This research was supervised by Professor Richard Green and Dr Nathan Robinson. The research was supported by Chief Scientist Francesco Sambo, Data Scientist Aurel Pjetri, Senior Data Scientist Hughan Ross, and the leadership and legal teams at Verizon Connect.
