@@ -8,7 +8,7 @@ The figure below illustrates examples of driver stops within a commercial enviro
 
 ## Acknowledgements
 
-This research was supervised by Professor Richard Green and Dr Nathan Robinson. The research was supported by Chief Scientist Francesco Sambo, Data Scientist Aurel Pjetri, Senior Data Scientist Hughan Ross, and the leadership and legal teams at Verizon Connect.
+This research was supervised by Professor Richard Green and Doctor Nathan Robinson. The research was supported by Chief Scientist Francesco Sambo, Data Scientist Aurel Pjetri, Senior Data Scientist Hughan Ross, and the leadership and legal teams at Verizon Connect.
 
 ## Repository Layout
 
